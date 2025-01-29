@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serverStart.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratkshya/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratkshya/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Pratkshya/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
